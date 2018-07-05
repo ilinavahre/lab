@@ -1,3 +1,7 @@
 # HelloWorld #
 
-Un pequeño programa para hacer pruebas en Java.
+Un pequeño repositorio para hacer pruebas en Java.
+
+Unicamente experimentos.
+
+_Ver bajo su propio riesgo._
